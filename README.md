@@ -1,0 +1,2 @@
+# Priority-based-Task-Offloading-Strategy-using-Edge-Computing
+This project optimizes task offloading in autonomous vehicles (AVs)🚘 using Q-learning 🤖 and edge computing ☁️. By analyzing task priority, server availability &amp; network conditions 📡, it ensures low latency ⏳, efficient resource use 🔋, and high task success rates ✅. Future work includes real-time traffic &amp; AI-driven optimizations 🚦📊.
